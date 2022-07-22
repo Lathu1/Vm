@@ -11,7 +11,7 @@
 •	 }
 •	resource "azurerm_resource_group" "example" {
 •	  name     = "Test-RG"
-•	  location = "Central US"
+•	  location = "East US"
 •	}
 •	
 •	resource "azurerm_virtual_network" "example" {
